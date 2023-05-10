@@ -1,5 +1,5 @@
 # AI_Assistant
-![image](https://github.com/MaksTsymbal/AI_Assistant/assets/126619938/3712a707-776f-486e-b0fe-8afcf2070bb9)
+![image](https://github.com/MaksTsymbal/AI_Assistant/assets/126619938/90ebe87c-dc6d-47c9-b342-c9c6601be9d2)
 
 ## How to Start API
 1. Fork my repositori
